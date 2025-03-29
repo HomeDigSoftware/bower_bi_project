@@ -91,6 +91,11 @@ I deleted the merge in fact_rental need to fix it
 
 **********************************************************************
 Created the star model and finished the 1 ' 2 '3 ' 4 sections 
-section 5: I added a 
+section 5: A
+ I added a 
 rental_hour & return_hour columns 
+rental_return_days_diff calc the days between rental and return dates 
 didn't have an idea for another one or something better  
+**** 
+5: B
+created a calculate column with prefix OR and 000 
